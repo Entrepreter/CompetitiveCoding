@@ -4,8 +4,6 @@
 using namespace std;
 
 vector<int> parseInts(string str) {
-	// Complete this function
-
     stringstream ss(str);
     vector<int> vector;
 
